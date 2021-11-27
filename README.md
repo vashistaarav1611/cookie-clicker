@@ -1,1 +1,2 @@
-# cookie-clicker
+# Cookie clicker
+Coki kliker
